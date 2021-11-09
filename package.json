@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Jerome-Horton/My-First-Express-Server/issues"
   },
-  "homepage": "https://github.com/Jerome-Horton/My-First-Express-Server#readme"
+  "homepage": "https://github.com/Jerome-Horton/My-First-Express-Server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
